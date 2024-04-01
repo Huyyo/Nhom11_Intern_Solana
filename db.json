@@ -1,16 +1,40 @@
 {
-  "voucher": [
+  "home": [
     {
-      "mint": "CioQNgnPBAiwnWYyNFMxzMqzXiy4K4KnjbFhNT68vNMx",
-      "id": 1
+      "id": 1,
+      "diaChi": "Mỹ Đình, Hà Nội",
+      "gia": "2,5Tr/Tháng",
+      "anh": "Nha-Tro.jpg"
     },
     {
-      "mint": "5kvYwdd7rhTcCuN6u7RxYuUMnMh1s1agJ7CTcwAtnw9o",
-      "id": 2
+      "id": 2,
+      "diaChi": "Thanh Xuân, Hà Nội",
+      "gia": "3Tr/Tháng",
+      "anh": "Nha-Tro-1.jpg"
     },
     {
-      "mint": "3tVpZsDBGctYRY81Xrm5ZtCr4fULEYgfuYt5iZ7ok8UY",
-      "id": 3
+      "id": 3,
+      "diaChi": "Đình Thôn, Hà Nội",
+      "gia": "2Tr/Tháng",
+      "anh": "Nha-Tro-2.jpg"
+    },
+    {
+      "id": 4,
+      "diaChi": "Hoài Đức, Hà Nội",
+      "gia": "4,5Tr/Tháng",
+      "anh": "Nha-Tro-3.jpg"
+    },
+    {
+      "diaChi": "Long Biên, Hà Nội",
+      "gia": "2,5Tr/Tháng",
+      "id": 5,
+      "anh": "Nha-Tro-4.jpg"
+    },
+    {
+      "diaChi": "Cầu Giấy",
+      "gia": "3,2Tr/Tháng",
+      "id": 6,
+      "anh": "Nha-Tro-5.jpg"
     }
   ]
 }
